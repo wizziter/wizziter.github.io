@@ -1,0 +1,2 @@
+# wizziter.github.io
+Blogs :)
